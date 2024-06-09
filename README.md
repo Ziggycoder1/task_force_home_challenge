@@ -1,6 +1,6 @@
 # task_force_home_challenge
  
-*Table of Contents
+**Table of Contents**
 1.	Setup Instructions
 2.	Project Overview
 3.	Approach and Explanation
@@ -9,7 +9,7 @@ Setup Instructions
 Prerequisites
 •	A modern web browser (e.g., Google Chrome, Firefox, Safari).
 
-Project Overview
+# Project Overview
 The Interactive Photo Gallery is a web-based application that displays a grid of images. Users can click on a thumbnail to view the image in a larger, modal view. The gallery includes the following features:
 •	Responsive grid layout of images.
 •	Hover effect on thumbnails.
